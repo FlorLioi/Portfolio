@@ -1,7 +1,4 @@
 :root{
-    /*FONTS*/
-    --font-poppins:"Poppins";
-
     /*FONT SIZES*/
     --font-size-sm:19px;
     --font-size-base:24px;
@@ -10,7 +7,8 @@
     --font-size-titulo-secundario:50px;
 
     /*COLORS*/
-    --color-black:#000000;
-    --color-pink:#ff6668;
-    --color-white:#FFFFFF;
+    --color-grey:#676767;
+    --color-pink:#fd6084;
+    --color-white:#F9F9F9;
+    --color-black:#333333;
 }
