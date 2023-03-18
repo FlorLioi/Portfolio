@@ -268,7 +268,7 @@ nav{
     height: 400px;   
     background-color: #FFFFFF;
     border-radius: 0.5rem;
-    box-shadow: 5px 5px 15px var(--color-white);
+    box-shadow: 5px 5px 20px var(--color-grey);
 }
 
 .card-img{
