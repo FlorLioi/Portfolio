@@ -5,7 +5,8 @@
         "proyects":"Proyects"
     },
     "profile":{
-        "rol": "Front-End developer",
+        "presentation": "Hi, I'm Flor",
+        "rol": "Front-End <br> developer",
         "about": "About me",
         "description": "My name is Florencia, I am 27 years old and I was born in Tandil, province of Buenos Aires. When I finished high school, I started a career in Initial Education, which I finished, but I decided to make a change in my life and really find out what I want to dedicate myself to. And I found web development, a wonderful world which motivates me to continue developing myself every day as a professional and, most importantly, as a person.",
         "see":"See resume"

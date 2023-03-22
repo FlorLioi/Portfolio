@@ -1,14 +1,11 @@
 :root{
     /*FONT SIZES*/
-    --font-size-sm:19px;
-    --font-size-base:24px;
-    --font-size-xl:35px;
-    --font-size-titulo-principal:110px;
-    --font-size-titulo-secundario:50px;
+    --font-size-m:34px;
+    --font-size-titulo-principal:60px;
 
     /*COLORS*/
     --color-grey:#676767;
     --color-pink:#fd6084;
-    --color-white:#F9F9F9;
+    --color-white:#FFFFFF;
     --color-black:#333333;
 }
