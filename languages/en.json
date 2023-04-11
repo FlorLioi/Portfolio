@@ -1,14 +1,14 @@
 {
     "nav":{
         "about": "About me",
-        "skills":"Skills",
-        "proyects":"Proyects"
+        "skills":"Proyects",
+        "contact":"Contact"
     },
     "profile":{
         "presentation": "Hi, I'm Flor",
         "rol": "Front-End <br> developer",
         "about": "About me",
-        "description": "My name is Florencia, I am 27 years old and I was born in Tandil, province of Buenos Aires. When I finished high school, I started a career in Initial Education, which I finished, but I decided to make a change in my life and really find out what I want to dedicate myself to. And I found web development, a wonderful world which motivates me to continue developing myself every day as a professional and, most importantly, as a person.",
+        "description": "My name is Florencia, I am 27 years old and I was born in Tandil, province of Buenos Aires. When I finished high school, I started a career in Initial Education, which I finished, but I decided to make a change in my life and really find out what I want to dedicate myself to. And I discovered a wonderful world which motivates me to continue developing myself every day as a professional and most importantly as a person. I am dedicated to Front End development and I am currently gaining experience in No code (Bubble) and ux ui design.",
         "see":"See resume"
     },
     "skills":{
@@ -16,7 +16,19 @@
     },
     "proyects":{
         "name":"Proyects",
-        "nameProyect": "To-Do List"
+        "nameProyect1": "Hangman game",
+        "nameProyect2":"Text encryptor",
+        "nameProyect3": "Alura Geek",
+        "nameProyect4": "To-Do List",
+        "nameProyect5": "Bonvivant",
+        "nameProyect6": "Find your pet"
+    },
+    "contact":{
+        "contact":"Contact",
+        "name":"Name",
+        "email":"Email",
+        "message":"Message",
+        "submit":"Submit"
     },
     "footer":{
         "name":"Made by Flor Lioi &#x2661;"
