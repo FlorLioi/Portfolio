@@ -15,6 +15,7 @@
         "name":"Mis habilidades"
     },
     "proyects":{
+        "all":"Todo",
         "name":"Proyects",
         "nameProyect1": "Juego del ahorcado",
         "nameProyect2":"Encriptador de texto",
