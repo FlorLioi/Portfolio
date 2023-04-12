@@ -6,13 +6,13 @@
     },
     "profile":{
         "presentation": "Hola, soy Flor",
-        "rol": "Desarrolladora <br> Front-End",
+        "rol": "Desarrolladora <br> Front-End y <br> No-Code",
         "about": "Sobre mi",
         "description": "Mi nombre es Florencia, tengo 27 años y nací en Tandil, provincia de Buenos Aires. Al terminar la secundaria, comencé la carrera en Educación Inicial, la cual finalicé, pero decidí hacer un cambio en mi vida y encontrar realmente a qué quiero dedicarme. Y descubrí un mundo maravilloso el cuál me motiva a seguir desarrollándome todos los días como profesional y lo más importante en lo humano. Me dedico al desarrollo Front End y actualmente estoy adquiriendo experiencia en No code (Bubble) y diseño ux ui.",
         "see":"Ver CV"
     },
     "skills":{
-        "name":"Mis habilidades"
+        "name":"Habilidades"
     },
     "proyects":{
         "all":"Todo",
