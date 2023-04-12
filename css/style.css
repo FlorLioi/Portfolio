@@ -429,88 +429,6 @@ footer{
     background-color: var(--color-black);
 }
 
-/* @media screen and (max-width:440px){
-    .flags__item p{
-        margin-bottom: 1rem;
-    }
-    .container-presentation{
-        height: 37rem;
-    }
-    .container-presentation p:first-child{
-        font-size: 4rem;
-        top: 23%;
-        left: 20%;
-    }
-    .container-presentation .only{
-        font-size: 4rem;
-        top: 42%;
-        left: 28%;
-        letter-spacing: 0.5rem;
-    }
-    .container-presentation p:last-of-type{
-        font-size: 1.2rem;
-        top: 60%;
-        left: 10%;
-    }
-    .container-presentation div{
-        padding: 1rem;
-        top:65%;
-        left: 35%;
-    }
-    .container-about{
-        flex-direction: column;
-        height: 45rem;
-    }
-    .container-about p:first-child{
-        font-size: var(--font-size-base);
-        margin-bottom: 1rem;
-        margin-top: 1rem;
-    }
-    .container-about p:last-of-type{
-        width: 20rem;
-    }
-    .container-skills{
-        height: 30rem;
-    }
-    .container-skills p:first-child{
-        font-size: var(--font-size-base);
-        margin-bottom: 3rem;
-    }
-    .container-skills-img{
-        flex-wrap: wrap;
-        justify-content: center;
-    }
-    .container-skills-img div{
-        margin-bottom: 1rem;
-    }
-    .container-skills img{
-        width: 4rem;
-    }
-    .container-proyects{
-        height: 90rem;
-        margin-top: 2rem;
-    }
-    .container-proyects .container-proyects-text{
-        font-size: var(--font-size-base);
-        margin-bottom: 4rem;
-    }
-    .cards{
-        flex-direction: column;
-    }
-    .card{
-        margin: auto;
-        margin-bottom: 2.5rem;
-        width: 330px;
-        height: 380px; 
-    }
-    .card img{
-        width: 100%;
-        height: 240px;
-        object-fit:cover;
-        border-radius: 0.5rem;
-    }
-}*/
-
 @media screen and (min-width:768px){
     .toggle-menu{
         display: none;
@@ -522,121 +440,6 @@ footer{
         transform: translateY(0);
     }
 }
-/*
-@media screen and (min-width:440px) and (max-width:768px){
-    .container-presentation{
-        height: 35rem;
-    }
-    .container-presentation p:first-child{
-        font-size: 4rem;
-        top: 25%;
-        left: 35%;
-    }
-    .container-presentation .only{
-        font-size: 4rem;
-        top: 42%;
-        left: 38%;
-        letter-spacing: 0.5rem;
-    }
-    .container-presentation p:last-of-type{
-        font-size: 1.2rem;
-        top: 60%;
-        left: 32%;
-    }
-    .container-presentation div{
-        padding: 1rem;
-        top:65%;
-        left: 43%;
-    }
-    .container-about{
-        flex-direction: column;
-        height: 45rem;
-    }
-    .container-about p:first-child{
-        font-size: var(--font-size-base);
-        margin-bottom: 1rem;
-        margin-top: 1rem;
-    }
-    .container-about p:last-of-type{
-        width: 20rem;
-    }
-    .container-skills{
-        height: 30rem;
-    }
-    .container-skills p:first-child{
-        font-size: var(--font-size-base);
-        margin-bottom: 3rem;
-    }
-    .container-skills-img{
-        flex-wrap: wrap;
-        justify-content: center;
-    }
-    .container-skills-img div{
-        margin-bottom: 1rem;
-    }
-    .container-skills img{
-        width: 4rem;
-    }
-    .container-proyects{
-        height: 90rem;
-        margin-top: 2rem;
-    }
-    .container-proyects .container-proyects-text{
-        font-size: var(--font-size-base);
-        margin-bottom: 4rem;
-    }
-    .cards{
-        flex-direction: column;
-    }
-    .card{
-        margin: auto;
-        margin-bottom: 2.5rem;
-        width: 330px;
-        height: 380px; 
-    }
-    .card img{
-        width: 100%;
-        height: 240px;
-        object-fit:cover;
-        border-radius: 0.5rem;
-    }
-}/*
-
-@media screen and (min-width:768px) and (max-width:1200px){
-    .container-presentation p:first-child{
-        font-size: 5rem;
-        top: 27%;
-        left: 35%;
-    }
-    .container-presentation .only{
-        font-size: 5rem;
-        top: 42%;
-        left: 38%;
-    }
-    .container-presentation p:last-of-type{
-        font-size: 1.2rem;
-        top: 60%;
-        left: 35%;
-    }
-    .container-presentation div{
-        padding: 1rem;
-        top:65%;
-        left: 43%;
-    }
-    .container-about p:last-of-type{
-        width: 15rem;
-    }
-    .container-proyects{
-        height: 55rem;
-        margin-top: 5rem;
-    }
-    .card{
-        margin: auto;
-        margin-bottom: 2.5rem;
-        width: 330px;
-        height: 380px; 
-    }
-} */
 
 @media screen and (max-width:440px){
     .container-presentation{
@@ -645,19 +448,20 @@ footer{
     }
 
     .tracking-in-expand-fwd {
-        margin-left: 5rem;
+        margin-left: 3rem;
+        margin-top: 3rem;
     }
 
     .container-presentation .icons{
-        margin-left: 5rem;
+        margin-left: 3rem;
     }
 
     .container-presentation .img-person{
-        width: 15rem;
+        width: 17rem;
     }
 
     .container-presentation p:last-of-type{
-        margin-left: 5rem;
+        margin-left: 3rem;
         font-size: var(--font-size-m);
     }
 
@@ -667,12 +471,18 @@ footer{
     }
     
     .container-about .me{
-        width: 20rem;
-        margin-bottom: 2rem;
+        width: 23rem;
+        margin-bottom: 1rem;
     }
 
     .container-about a{
-        margin-left: 8rem;
+        display: block;
+        margin: auto;
+    }
+
+    .container-about .title{
+        text-align: center;
+        margin-bottom: 1rem;
     }
     
     .container-skills-img{
@@ -680,17 +490,15 @@ footer{
         justify-content: center;
         align-items: center;
         flex-wrap: wrap;
-        margin-top: 3rem;
-        margin-bottom: 2rem;
     }
 
     .container-skills-img div{
         flex-direction: column;
-        margin: 0.5rem;
+        margin: 0.7rem;
     }
     
     .container-proyects{
-        max-height: 230rem;
+        max-height: 136rem;
     }
 
     .card img{
@@ -706,7 +514,7 @@ footer{
     }
     
     .contenedor-form{
-        height: 40rem;
+        height: 35rem;
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -720,9 +528,10 @@ footer{
     
     .contenedor-form p{
         font-size: var(--font-size-m);
-        margin-bottom: 4rem;
+        margin-bottom: 2rem;
         color: var(--color-black);
         letter-spacing: 0.5rem;
+        margin-top: 5rem;
     }
     
     form label{

@@ -31,9 +31,20 @@ const changeLanguage = async language =>{ //Funcion que lee el json
 
 /* FILTRO */
 
-const liItem = document.querySelectorAll('li');
+const liItem = document.querySelectorAll('ul .li');
 const card = document.querySelectorAll('.card');
 
+liItem.forEach(li =>{
+    li.onclick = function(){
+        //Active
+        liItem.forEach(li =>{
+            li.className = '';
+        })
+        li.className = 'active';
+    }
+})
+
+//Filter
 for (i = 0; i < liItem.length; i++){
     liItem[i].addEventListener('click', (e) => {
         e.preventDefault();
